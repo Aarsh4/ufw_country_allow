@@ -9,6 +9,7 @@ Download your Country IP blocks in cidr format from https://www.ipdeny.com/ipblo
 Edit ipfile, serverport and protocol in (ufw.sh) script as per your need.
 
 # Run the Script
+cd /root/ufw_country_allow
 ./ufw.sh
 
 # Extras
